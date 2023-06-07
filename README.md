@@ -1,4 +1,10 @@
-
+##### Commands to run:
+1. Install virtual env activate
+2. pip install -r requirements.txt
+3. cd Ride-Service-Platform-API
+4. python3.9 manage.py makemigrations
+5. python3.9 manage.py migrate
+6. python3.9 manage.py runserver
 
 ##### Features:
 1.  User Registration and Authentication
